@@ -67,10 +67,22 @@ sources : http://creativecommons.fr/  |  https://fr.wikipedia.org/wiki/Creative_
 
 ]
 
-[   QUESTION 6 : 
+[   QUESTION 6 : Qu'est-ce que Qwant ?
+
+  REPONSE : 
+
+Qwuant est un moteur de recherche francais qui respecte la vie privée des utilisateurs.
+
+sources : https://www.qwant.com/?l=fr  |  https://fr.wikipedia.org/wiki/Qwant
+
+]
 
 
+[ QUESTION 7 : Qui est Steve Wozniak ?
 
+  REPONSE : 
+
+]
 
 
 
