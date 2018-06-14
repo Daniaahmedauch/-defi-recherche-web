@@ -82,8 +82,16 @@ sources : https://www.qwant.com/?l=fr  |  https://fr.wikipedia.org/wiki/Qwant
 
   REPONSE : 
 
+Steve Wozniak née le 11 août 1950 à San José est un informaticien professeur d'informatique et électronicien américain.
+Il est confondateur de la société Apple Computer et est concepteur des premiers APPLE, il est aussi un des pionniers de l'industrie micro-informatique.
+
+sources : https://fr.wikipedia.org/wiki/Steve_Wozniak
+ 
 ]
 
+[ QUESTION 8 : 
+
+]
 
 
 
