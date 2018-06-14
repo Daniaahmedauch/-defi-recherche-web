@@ -100,7 +100,19 @@ sources : https://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug
 
 ]
 
-[ QUESTION 9 : 
+[ QUESTION 9 : Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+
+  REPONSE : 
+
+Toulouse Java User Group : Evénement le 12 juin 2018 - " SOIREE KOTLIN "
+DEV FEST : Evénement le jeudi 9 novembre 2018 
+
+sources : http://www.gdgtoulouse.fr/ | https://www.billetweb.fr/devfest-toulouse-2018 | https://www.meetup.com/fr-FR/Toulouse-Java-User-Group/events/250956533/
+]
+
+[ QUESTION 10 : 
+
+  REPONSE : 
 
 ]
 
