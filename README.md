@@ -24,6 +24,16 @@ Quelle est la différence entre le Web et Internet ?
 
  REPONSE : 
 
+Internet est LE reseau informatique mondial, qui relie des ordinateurs entre eux à L'échelle du monde tandis que le web est un système qui nous permet de naviguer sur internet, on peut la qualifier de principale application de l'internet qui nous permet de consulter toutes sorte de "documents".
+
+sources : https://www.gralon.net/articles/internet-et-webmaster/logiciel/article-quelle-est-la-difference-entre-web-et-internet--8644.htm / https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
+
+]
+
+[   QUESTION 3 : 
+
+
+ ]
 
 ]
 
