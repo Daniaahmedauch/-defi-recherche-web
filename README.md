@@ -131,9 +131,16 @@ Il est à l'origine de nombreux programme et reseaux sur le net qui sont favorab
 sources : http://www.linternaute.com/biographie/aaron-swartz/ | https://www.franceculture.fr/personne-aaron-swartz | https://fr.wikipedia.org/wiki/Aaron_Swartz
 ]
 
-[ QUESTION 11 : 
+[ QUESTION 11 : Qu’est-ce que le projet GNU ?
    
   REPONSE : 
-sources
+
+Le projet GNU projet soutenue par la Free Software Foundation est un projet informatique qui sert à developper le système d'éxploitation GNU, les premiers dévellopement on été réalisés en 1984 par Richard Staliman et est maintenue aujourd'hui par une communauté dde hackers.
+
+sources : https://fr.wikipedia.org/wiki/Projet_GNU
 ]
 
+[ QUESTION 12 :
+
+  REPONSE : 
+]
