@@ -61,8 +61,13 @@ sources : https://www.legalstart.fr/fiches-pratiques/proteger-une-creation/copyr
 
    REPONSE : 
 
+C'est une organisation à but non lucratif qui facilite la diffusion et le partage des oeuvres des personnes souhaitant libérer leurs oeuvres des drois de propriété intlelectuelle standart de leurs pays ,tout en accompagnant les nouvelles pratiques de création à l'ère numérique.
+
+sources : http://creativecommons.fr/  |  https://fr.wikipedia.org/wiki/Creative_Commons
+
 ]
 
+[   QUESTION 6 : 
 
 
 
