@@ -110,10 +110,18 @@ DEV FEST : Evénement le jeudi 9 novembre 2018
 sources : http://www.gdgtoulouse.fr/ | https://www.billetweb.fr/devfest-toulouse-2018 | https://www.meetup.com/fr-FR/Toulouse-Java-User-Group/events/250956533/
 ]
 
-[ QUESTION 10 : 
+[ QUESTION 10 : Quels sont les prochains rendez-vous tech de Toulouse ?
 
   REPONSE : 
 
+- Apéro Entrepreneurs JUIN le jeudi 5 juillet 2018
+- La mélée Numerique  / Festival de l'homo numericus : du samedi 22 au 28 septembre 2018 
+
+sources :https://www.meleenumerique.com/ | https://wildcodeschool.fr/blog/rentree-evenements-tech/ | 
 ]
 
+[ QUESTION 10 : 
+
+   REPONSE : 
+]
 
