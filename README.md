@@ -89,9 +89,19 @@ sources : https://fr.wikipedia.org/wiki/Steve_Wozniak
  
 ]
 
-[ QUESTION 8 : 
+[ QUESTION 8 : D'où vient l'expression "bug informatique" ?
+
+  REPONSE : 
+
+Le mot "bug" à trouvé son origne dans les années 40 quand à ce moment la les ordinateurs  produisent beaucoup de chaleur ce qui provoquent alors une températures qui attirent beaucoup d'insectes. 
+C'est quand un papillon pénètre entre les composants des machines, cause un court-circuit et provoque un dysfonctionnement de la machine que l'expression "bug dans l'ordinateur" à vu le jour.
+
+sources : https://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
 
 ]
 
+[ QUESTION 9 : 
+
+]
 
 
