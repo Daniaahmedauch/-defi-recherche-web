@@ -45,7 +45,25 @@ sources : https://www.commentcamarche.com/faq/8102-192-168-1-1-192-168-0-1-comme
 
  ]
 
-[    QUESTION 4 : 
+[    QUESTION 4 : Que sont le copyright et le copyleft ?
+
+
+ REPONSE : 
+
+Le copyright reconnaissable par le symbole "©" sert à protéger l'oeuvre de l'auteur.
+Le copyleft est une méthode qui permet de rendre libre un programme.
+
+sources : https://www.legalstart.fr/fiches-pratiques/proteger-une-creation/copyright/ | https://www.gnu.org/licenses/copyleft.fr.html
+
+]
+
+[    QUESTION 5 : Que sont les Creatives Commons ?
+
+   REPONSE : 
+
+]
+
+
 
 
 
