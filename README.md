@@ -30,12 +30,24 @@ sources : https://www.gralon.net/articles/internet-et-webmaster/logiciel/article
 
 ]
 
-[   QUESTION 3 : 
+[   QUESTION 3 : Qu’est-ce que cela :
 
+    8.8.8.8
+    192.168.0.1
+    255.255.255.0
+    127.0.0.1
+
+ REPONSE : 
+
+Ses chiffres sont des plages d'adresses IP .
+
+sources : https://www.commentcamarche.com/faq/8102-192-168-1-1-192-168-0-1-comment-y-acceder
 
  ]
 
-]
+[    QUESTION 4 : 
+
+
 
 
 
