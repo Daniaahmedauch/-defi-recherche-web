@@ -120,8 +120,21 @@ sources : http://www.gdgtoulouse.fr/ | https://www.billetweb.fr/devfest-toulouse
 sources :https://www.meleenumerique.com/ | https://wildcodeschool.fr/blog/rentree-evenements-tech/ | 
 ]
 
-[ QUESTION 10 : 
+[ QUESTION 10 : Qui est Aaron Swartz ?
 
    REPONSE : 
+
+Aaron Swartz était un informaticien et militant de l'internet, hacktiviste américain, il était  écrivain politique et fervent partisan de la libérté numérique. 
+Il est né à chicago en 1986 et c'est suicidé le 11 janvier 2013.
+Il est à l'origine de nombreux programme et reseaux sur le net qui sont favorable aux logiciel libres, il à mis au point une encyclopédie en ligne avant wikipédia et à participé à la mise en place du format RSS.
+Il est né à chicago en 1986 et c'est suicidé le 11 janvier 2013.
+
+sources : http://www.linternaute.com/biographie/aaron-swartz/ | https://www.franceculture.fr/personne-aaron-swartz | https://fr.wikipedia.org/wiki/Aaron_Swartz
+]
+
+[ QUESTION 11 : 
+   
+  REPONSE : 
+sources
 ]
 
